@@ -1,0 +1,9 @@
+# Category classification table for HUC10 basins
+# - the value corresponds to HUC10 attribute
+# - the label uses HUC10 and Name values, currently hard-coded here because simple
+# - #ff6666 is rosey red
+value,color,opacity,fillColor,fillOpacity,weight,label
+1019000401,#ff6666,1.0,#ff6666,0.3,2,"1019000401, Upper Clear Creek"
+1019000402,#ff6666,1.0,#ff6666,0.3,2,"1019000402, Middle Clear Creek"
+1019000403,#ff6666,1.0,#ff6666,0.3,2,"1019000403, Ralston Creek"
+1019000404,#ff6666,1.0,#ff6666,0.3,2,"1019000404, Lower Clear Creek"
